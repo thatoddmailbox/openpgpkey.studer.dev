@@ -1,5 +1,5 @@
 [[headers]]
 	for = "/*"
 	[headers.values]
-		Content-Type "application/octet-stream"
-		Access-Control-Allow-Origin "*"
+		Content-Type = "application/octet-stream"
+		Access-Control-Allow-Origin = "*"
